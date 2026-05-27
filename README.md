@@ -84,6 +84,25 @@ Business Recommendations
 - Encourage regular cardiac health assessments and follow-up monitoring for critical patients.
 - Use predictive analytics models to improve mortality risk prediction and proactive treatment planning.
 
+---------------
+Files in This Repository
+---------------------------------
+hospital project-checkpoint.ipynb
+
+Jupyter Python notebook covering data cleaning, EDA , visualizations and insights
+
+-----------------------------
+
+heart_disease.sql
+
+SQL queries for KPI validation, demographic segmentation and risk analysis
+
+-------------------------------
+
+PowerBI Dashboard
+
+Interactive visualization summarizing patient risk patterns
+
 ------------------------
 Author
 -----------
