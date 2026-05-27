@@ -34,6 +34,21 @@ Technical Details
 | Power BI   | Dashboard Creation   |
 | Microsoft Excel | Raw data source |
 
+-------------------
+Project Workflow
+------------------------------
+Data Collection  
+↓  
+Data Cleaning & Preprocessing  
+↓  
+Exploratory Data Analysis (EDA)  
+↓  
+Risk Factor Analysis  
+↓  
+Power BI Dashboard Development  
+↓  
+Business Insights & Recommendations
+
 ----------
 Key Insights
 --------------------
