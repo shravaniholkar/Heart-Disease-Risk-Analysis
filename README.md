@@ -87,19 +87,15 @@ Business Recommendations
 ---------------
 Files in This Repository
 ---------------------------------
-hospital project-checkpoint.ipynb
+- hospital project-checkpoint.ipynb
 
 Jupyter Python notebook covering data cleaning, EDA , visualizations and insights
 
------------------------------
-
-heart_disease.sql
+- heart_disease.sql
 
 SQL queries for KPI validation, demographic segmentation and risk analysis
 
--------------------------------
-
-PowerBI Dashboard
+- PowerBI Dashboard
 
 Interactive visualization summarizing patient risk patterns
 
